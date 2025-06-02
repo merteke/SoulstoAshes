@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8891a694eff6e744972cc24472a06b4, type: 3}
+  m_Name: Glitch
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7018995681840017482, guid: 54590e00de55c0b4a8794c8a7b07d3c1, type: 3}
+  controller: {fileID: 22100000, guid: ffea7579ac7e56748b8dcb736d55b5b4, type: 2}
+  name: Glitch
+  fullName: Glitch
+  characterDescription: "No name, no past \u2014 only feral instinct. It emerged
+    from nowhere, a beast cloaked in silence and fury. With the Knife in hand, it
+    carves its purpose into the world."
+  startingWeapon: {fileID: 11400000, guid: 1f38aac8005f1a14fb5ca1df28d358c7, type: 2}
+  stats:
+    maxHealth: 100
+    baseDamage: 12
+    recovery: 0
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 20
+    revival: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8891a694eff6e744972cc24472a06b4, type: 3}
+  m_Name: Aella
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7834884334349416891, guid: db752ea1f11957f43815d8e7c23084da, type: 3}
+  controller: {fileID: 22100000, guid: 7554c493cc3187f43b06d9d6570d9b18, type: 2}
+  name: Aella
+  fullName: Aella
+  characterDescription: A mighty warrior, forged in the heart of tempests. Thunder
+    answers his call, and the skies rage at his command. She begins his journey with
+    the Lightning Ring, a conduit of the storm itself.
+  startingWeapon: {fileID: 11400000, guid: 714b6fc71b209b84e822d16c583ffcc3, type: 2}
+  stats:
+    maxHealth: 100
+    baseDamage: 12
+    recovery: 0
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 20
+    revival: 0

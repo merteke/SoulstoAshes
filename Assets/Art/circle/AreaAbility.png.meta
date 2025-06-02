@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 39f2e002c4482d74ea2fb7d333c31a79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1645847535727398727
+    second: AreaAbility_0
+  - first:
+      213: -576872058222991427
+    second: AreaAbility_1
+  - first:
+      213: 1725040817212201340
+    second: AreaAbility_2
+  - first:
+      213: -7289971267042456982
+    second: AreaAbility_3
+  - first:
+      213: -7293893343983927499
+    second: AreaAbility_4
+  - first:
+      213: 2620661271123347247
+    second: AreaAbility_5
+  - first:
+      213: 6560243854916143569
+    second: AreaAbility_6
+  - first:
+      213: 4887180459827651295
+    second: AreaAbility_7
+  - first:
+      213: 7262788058000745977
+    second: AreaAbility_8
+  - first:
+      213: 4585844953231166782
+    second: AreaAbility_9
+  - first:
+      213: -4967779532445354803
+    second: AreaAbility_10
+  - first:
+      213: 3191820898673943189
+    second: AreaAbility_11
+  - first:
+      213: -2244086665192635286
+    second: AreaAbility_12
+  - first:
+      213: -45148970948322278
+    second: AreaAbility_13
+  - first:
+      213: -7214676720036014480
+    second: AreaAbility_14
+  - first:
+      213: 5203690841751794262
+    second: AreaAbility_15
+  - first:
+      213: -130028662932609842
+    second: AreaAbility_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AreaAbility_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 208
+        width: 1019
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03486e266c829e0800000000000000
+      internalID: -1645847535727398727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 992
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db725c06be98ef7f0800000000000000
+      internalID: -576872058222991427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 841
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799bfccb7390f710800000000000000
+      internalID: 1725040817212201340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 815
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a412da1c1d4da90800000000000000
+      internalID: -7289971267042456982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 877
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f704af5a2e6ca90800000000000000
+      internalID: -7293893343983927499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 835
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274eed8a857e5420800000000000000
+      internalID: 2620661271123347247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 867
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94734470baa0b50800000000000000
+      internalID: 6560243854916143569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 835
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2e14d1cb0c2d340800000000000000
+      internalID: 4887180459827651295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f56514424b9ac460800000000000000
+      internalID: 7262788058000745977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 819
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8c5820b134af30800000000000000
+      internalID: 4585844953231166782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 794
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4732ee5d6ee0bb0800000000000000
+      internalID: -4967779532445354803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 844
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e0244230ab4c20800000000000000
+      internalID: 3191820898673943189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_12
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 801
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64800451176bd0e0800000000000000
+      internalID: -2244086665192635286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 358
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c96a800499f5ff0800000000000000
+      internalID: -45148970948322278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07619f48fb150eb90800000000000000
+      internalID: -7214676720036014480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 361
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b19f0049373840800000000000000
+      internalID: 5203690841751794262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaAbility_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 160
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec46847be9b023ef0800000000000000
+      internalID: -130028662932609842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AreaAbility_0: -1645847535727398727
+      AreaAbility_1: -576872058222991427
+      AreaAbility_10: -4967779532445354803
+      AreaAbility_11: 3191820898673943189
+      AreaAbility_12: -2244086665192635286
+      AreaAbility_13: -45148970948322278
+      AreaAbility_14: -7214676720036014480
+      AreaAbility_15: 5203690841751794262
+      AreaAbility_16: -130028662932609842
+      AreaAbility_2: 1725040817212201340
+      AreaAbility_3: -7289971267042456982
+      AreaAbility_4: -7293893343983927499
+      AreaAbility_5: 2620661271123347247
+      AreaAbility_6: 6560243854916143569
+      AreaAbility_7: 4887180459827651295
+      AreaAbility_8: 7262788058000745977
+      AreaAbility_9: 4585844953231166782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

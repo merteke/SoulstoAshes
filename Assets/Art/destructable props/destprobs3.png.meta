@@ -1,0 +1,1295 @@
+fileFormatVersion: 2
+guid: 68b85c82ede115044855c0a4f2069eeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1527616097122605441
+    second: destprobs3_0
+  - first:
+      213: 5538092344355490984
+    second: destprobs3_1
+  - first:
+      213: -5795313416617004677
+    second: destprobs3_2
+  - first:
+      213: 5153198217082629994
+    second: destprobs3_3
+  - first:
+      213: -1974795168632473261
+    second: destprobs3_4
+  - first:
+      213: 6696228789773461857
+    second: destprobs3_5
+  - first:
+      213: -7426037794681848535
+    second: destprobs3_6
+  - first:
+      213: 5554046448939611204
+    second: destprobs3_7
+  - first:
+      213: -6437467652470387588
+    second: destprobs3_8
+  - first:
+      213: -235993987406133491
+    second: destprobs3_9
+  - first:
+      213: -5885445831893125850
+    second: destprobs3_10
+  - first:
+      213: 7129464892838251370
+    second: destprobs3_11
+  - first:
+      213: -7516963804571247412
+    second: destprobs3_12
+  - first:
+      213: -1820170746397668618
+    second: destprobs3_13
+  - first:
+      213: -1736703409079778030
+    second: destprobs3_14
+  - first:
+      213: -3904661698087411034
+    second: destprobs3_15
+  - first:
+      213: 5704428314275688948
+    second: destprobs3_16
+  - first:
+      213: -5859685910356197749
+    second: destprobs3_17
+  - first:
+      213: 6648779864417397675
+    second: destprobs3_18
+  - first:
+      213: -3056309953436212936
+    second: destprobs3_19
+  - first:
+      213: 5117246237830547381
+    second: destprobs3_20
+  - first:
+      213: 4555222960223965546
+    second: destprobs3_21
+  - first:
+      213: -8639063907202979797
+    second: destprobs3_22
+  - first:
+      213: 4914371071867492536
+    second: destprobs3_23
+  - first:
+      213: 8764186774890093996
+    second: destprobs3_24
+  - first:
+      213: -4637053007513895302
+    second: destprobs3_25
+  - first:
+      213: 6671202706931744446
+    second: destprobs3_26
+  - first:
+      213: -2600400886592837282
+    second: destprobs3_27
+  - first:
+      213: 50171790504164866
+    second: destprobs3_28
+  - first:
+      213: -3443177093882252229
+    second: destprobs3_29
+  - first:
+      213: -5626721393437905542
+    second: destprobs3_30
+  - first:
+      213: -6200019298868404484
+    second: destprobs3_31
+  - first:
+      213: -2437650952432415478
+    second: destprobs3_32
+  - first:
+      213: -3531052778428596215
+    second: destprobs3_33
+  - first:
+      213: -2230962158569815768
+    second: destprobs3_34
+  - first:
+      213: 100889531270507080
+    second: destprobs3_35
+  - first:
+      213: -4896899713463393744
+    second: destprobs3_36
+  - first:
+      213: 6075761063311344507
+    second: destprobs3_37
+  - first:
+      213: -387870707453390001
+    second: destprobs3_38
+  - first:
+      213: -1118492444380089339
+    second: destprobs3_39
+  - first:
+      213: 4223495171390680217
+    second: destprobs3_40
+  - first:
+      213: 4173999821068434281
+    second: destprobs3_41
+  - first:
+      213: 1051508387378011560
+    second: destprobs3_42
+  - first:
+      213: -3531195432424042403
+    second: destprobs3_43
+  - first:
+      213: -3706550307748673681
+    second: destprobs3_44
+  - first:
+      213: 5482812862233115315
+    second: destprobs3_45
+  - first:
+      213: 6205048575167136105
+    second: destprobs3_46
+  - first:
+      213: 451580795094644048
+    second: destprobs3_47
+  - first:
+      213: 3649067591045177424
+    second: destprobs3_48
+  - first:
+      213: -5915870710497169821
+    second: destprobs3_49
+  - first:
+      213: -2338419030947455410
+    second: destprobs3_50
+  - first:
+      213: 3505619153124975265
+    second: destprobs3_51
+  - first:
+      213: 7979316557678158277
+    second: destprobs3_52
+  - first:
+      213: 913049367795191088
+    second: destprobs3_53
+  - first:
+      213: -7590459250154328452
+    second: destprobs3_54
+  - first:
+      213: -3971632933456873037
+    second: destprobs3_55
+  - first:
+      213: -7441971846649530129
+    second: destprobs3_56
+  - first:
+      213: 1917946888893360518
+    second: destprobs3_57
+  - first:
+      213: 6744296574588070053
+    second: destprobs3_58
+  - first:
+      213: 2913424080420215677
+    second: destprobs3_59
+  - first:
+      213: -7143640952984097517
+    second: destprobs3_60
+  - first:
+      213: 2423915945312938409
+    second: destprobs3_61
+  - first:
+      213: -7663415795252256292
+    second: destprobs3_62
+  - first:
+      213: -5835499996895461577
+    second: destprobs3_63
+  - first:
+      213: 302693728170859155
+    second: destprobs3_64
+  - first:
+      213: 746027522574555638
+    second: destprobs3_65
+  - first:
+      213: -1259313345307606578
+    second: destprobs3_66
+  - first:
+      213: 1145253236004446166
+    second: destprobs3_67
+  - first:
+      213: -1252437725199190586
+    second: destprobs3_68
+  - first:
+      213: 3820182144910977210
+    second: destprobs3_69
+  - first:
+      213: 4418459502663437692
+    second: destprobs3_70
+  - first:
+      213: 8019056007562877855
+    second: destprobs3_71
+  - first:
+      213: -7752624958049664248
+    second: destprobs3_72
+  - first:
+      213: -5473541209094710972
+    second: destprobs3_73
+  - first:
+      213: -8547668982625399076
+    second: destprobs3_74
+  - first:
+      213: 4459334709743488470
+    second: destprobs3_75
+  - first:
+      213: 7820768021809806753
+    second: destprobs3_76
+  - first:
+      213: -5914769535397162395
+    second: destprobs3_77
+  - first:
+      213: -833975083417651510
+    second: destprobs3_78
+  - first:
+      213: 924448545842633031
+    second: destprobs3_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: destprobs3_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 540
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18959262fbe233510800000000000000
+      internalID: 1527616097122605441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac8e9625a14bdc40800000000000000
+      internalID: 5538092344355490984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 538
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fc780729e29fa0800000000000000
+      internalID: -5795313416617004677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 537
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe262c976d38740800000000000000
+      internalID: 5153198217082629994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 538
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359f08dc14e1894e0800000000000000
+      internalID: -1974795168632473261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 469
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e03d2b98cdec50800000000000000
+      internalID: 6696228789773461857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 459
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b01791dfe31d40800000000000000
+      internalID: 5554046448939611204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 458
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4f69f64589a6a0800000000000000
+      internalID: -6437467652470387588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 459
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07878308b499bcf0800000000000000
+      internalID: -235993987406133491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 459
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625f435c232b25ea0800000000000000
+      internalID: -5885445831893125850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 467
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0e38eb82f0f260800000000000000
+      internalID: 7129464892838251370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 467
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccdf0f0f316ea790800000000000000
+      internalID: -7516963804571247412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 467
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac86e89547db6e0800000000000000
+      internalID: -1820170746397668618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 469
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215079d637df5e7e0800000000000000
+      internalID: -1736703409079778030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 369
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22d659fdadfc9c0800000000000000
+      internalID: -3904661698087411034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1351714533a2f40800000000000000
+      internalID: 5704428314275688948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 369
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e7bd1e5b63eaea0800000000000000
+      internalID: -5859685910356197749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 369
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6e585f06354c50800000000000000
+      internalID: 6648779864417397675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 369
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a1f55a4ec595d0800000000000000
+      internalID: -3056309953436212936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 371
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7081a475c140740800000000000000
+      internalID: 5117246237830547381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 371
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a615ad0d527673f30800000000000000
+      internalID: 4555222960223965546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 371
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81e11d37a533440800000000000000
+      internalID: 4914371071867492536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_24
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 371
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1086ef65a0a970800000000000000
+      internalID: 8764186774890093996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 248
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3a7a9bd0e5afb0800000000000000
+      internalID: -4637053007513895302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 248
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7a43348fd49c50800000000000000
+      internalID: 6671202706931744446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 248
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59e501db2589ebd0800000000000000
+      internalID: -2600400886592837282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 248
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20efeb64afe32b000800000000000000
+      internalID: 50171790504164866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 248
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed16afb4b15f9a0800000000000000
+      internalID: -6200019298868404484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_32
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 248
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d8fddbf59bb2ed0800000000000000
+      internalID: -2437650952432415478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_33
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 245
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9008b92d43e2ffec0800000000000000
+      internalID: -3531052778428596215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_34
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 248
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8218b17acb70a01e0800000000000000
+      internalID: -2230962158569815768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_62
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 151
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12fddcfe316a590800000000000000
+      internalID: -7663415795252256292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 148
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39adc5f8752633400800000000000000
+      internalID: 302693728170859155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_65
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 148
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f998b3441c6a5a00800000000000000
+      internalID: 746027522574555638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_66
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 148
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec108004f25068ee0800000000000000
+      internalID: -1259313345307606578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_73
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 149
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449927835431a04b0800000000000000
+      internalID: -5473541209094710972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_76
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 148
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad35b26413f88c60800000000000000
+      internalID: 7820768021809806753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_77
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 148
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562995202748aeda0800000000000000
+      internalID: -5914769535397162395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destprobs3_78
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 148
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63d5984102d64f0800000000000000
+      internalID: -833975083417651510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26fbbaac864895948ba381f29189df2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      destprobs3_0: 1527616097122605441
+      destprobs3_1: 5538092344355490984
+      destprobs3_10: -5885445831893125850
+      destprobs3_11: 7129464892838251370
+      destprobs3_12: -7516963804571247412
+      destprobs3_13: -1820170746397668618
+      destprobs3_14: -1736703409079778030
+      destprobs3_15: -3904661698087411034
+      destprobs3_16: 5704428314275688948
+      destprobs3_17: -5859685910356197749
+      destprobs3_18: 6648779864417397675
+      destprobs3_19: -3056309953436212936
+      destprobs3_2: -5795313416617004677
+      destprobs3_20: 5117246237830547381
+      destprobs3_21: 4555222960223965546
+      destprobs3_22: -8639063907202979797
+      destprobs3_23: 4914371071867492536
+      destprobs3_24: 8764186774890093996
+      destprobs3_25: -4637053007513895302
+      destprobs3_26: 6671202706931744446
+      destprobs3_27: -2600400886592837282
+      destprobs3_28: 50171790504164866
+      destprobs3_29: -3443177093882252229
+      destprobs3_3: 5153198217082629994
+      destprobs3_30: -5626721393437905542
+      destprobs3_31: -6200019298868404484
+      destprobs3_32: -2437650952432415478
+      destprobs3_33: -3531052778428596215
+      destprobs3_34: -2230962158569815768
+      destprobs3_35: 100889531270507080
+      destprobs3_36: -4896899713463393744
+      destprobs3_37: 6075761063311344507
+      destprobs3_38: -387870707453390001
+      destprobs3_39: -1118492444380089339
+      destprobs3_4: -1974795168632473261
+      destprobs3_40: 4223495171390680217
+      destprobs3_41: 4173999821068434281
+      destprobs3_42: 1051508387378011560
+      destprobs3_43: -3531195432424042403
+      destprobs3_44: -3706550307748673681
+      destprobs3_45: 5482812862233115315
+      destprobs3_46: 6205048575167136105
+      destprobs3_47: 451580795094644048
+      destprobs3_48: 3649067591045177424
+      destprobs3_49: -5915870710497169821
+      destprobs3_5: 6696228789773461857
+      destprobs3_50: -2338419030947455410
+      destprobs3_51: 3505619153124975265
+      destprobs3_52: 7979316557678158277
+      destprobs3_53: 913049367795191088
+      destprobs3_54: -7590459250154328452
+      destprobs3_55: -3971632933456873037
+      destprobs3_56: -7441971846649530129
+      destprobs3_57: 1917946888893360518
+      destprobs3_58: 6744296574588070053
+      destprobs3_59: 2913424080420215677
+      destprobs3_6: -7426037794681848535
+      destprobs3_60: -7143640952984097517
+      destprobs3_61: 2423915945312938409
+      destprobs3_62: -7663415795252256292
+      destprobs3_63: -5835499996895461577
+      destprobs3_64: 302693728170859155
+      destprobs3_65: 746027522574555638
+      destprobs3_66: -1259313345307606578
+      destprobs3_67: 1145253236004446166
+      destprobs3_68: -1252437725199190586
+      destprobs3_69: 3820182144910977210
+      destprobs3_7: 5554046448939611204
+      destprobs3_70: 4418459502663437692
+      destprobs3_71: 8019056007562877855
+      destprobs3_72: -7752624958049664248
+      destprobs3_73: -5473541209094710972
+      destprobs3_74: -8547668982625399076
+      destprobs3_75: 4459334709743488470
+      destprobs3_76: 7820768021809806753
+      destprobs3_77: -5914769535397162395
+      destprobs3_78: -833975083417651510
+      destprobs3_79: 924448545842633031
+      destprobs3_8: -6437467652470387588
+      destprobs3_9: -235993987406133491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

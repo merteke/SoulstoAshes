@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a75d4c83f1acfa43b720907353cd13f, type: 3}
+  m_Name: AllEnemyWave
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 5072470365851952111, guid: 30ed047d67149124181a4b413584950e, type: 3}
+  - {fileID: 5072470365851952111, guid: 8e40c8c58914e28408c535bb400dd540, type: 3}
+  - {fileID: 4835385138842032059, guid: 8c430ed76f3291f4ba1da722d4985148, type: 3}
+  - {fileID: 2708214894364477234, guid: e6613e73136ae6746ac983763a24e89a, type: 3}
+  - {fileID: 941037992205026504, guid: 306bb6e20d814d94eb17ac45ffb48475, type: 3}
+  - {fileID: 3954518806466388217, guid: 07b529ef69764944d93872b15df781c1, type: 3}
+  spawnInterval: {x: 1, y: 1}
+  spawnsPerTick: {x: 2, y: 8}
+  duration: 160
+  startingCount: 0
+  totalSpawns: 4294967295
+  exitConditions: 1
+  mustKillAll: 1
+  spawnCount: 0

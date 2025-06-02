@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d9a49b36646020d4c8925e2544b0a479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 753091592289299859
+    second: Agis white_0
+  - first:
+      213: 7900723349177053977
+    second: Agis white_1
+  - first:
+      213: 6554198431100319979
+    second: Agis white_2
+  - first:
+      213: 4729688940951915860
+    second: Agis white_3
+  - first:
+      213: 6284665301115701327
+    second: Agis white_4
+  - first:
+      213: -6455447017454644658
+    second: Agis white_5
+  - first:
+      213: -273131257625864078
+    second: Agis white_6
+  - first:
+      213: 4458121416872790875
+    second: Agis white_7
+  - first:
+      213: -3169637260389029349
+    second: Agis white_8
+  - first:
+      213: 7182646302165374809
+    second: Agis white_9
+  - first:
+      213: -3313804642118748629
+    second: Agis white_10
+  - first:
+      213: 6462330156939865183
+    second: Agis white_11
+  - first:
+      213: 3004689273792751272
+    second: Agis white_12
+  - first:
+      213: -5831516011667706073
+    second: Agis white_13
+  - first:
+      213: -3651693118142528474
+    second: Agis white_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agis white_0
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1564
+        width: 229
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dacb920d4837a00800000000000000
+      internalID: 753091592289299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_1
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1564
+        width: 233
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133558b60205ad60800000000000000
+      internalID: 7900723349177053977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_2
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1563
+        width: 236
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be838295fb035fa50800000000000000
+      internalID: 6554198431100319979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_3
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1563
+        width: 236
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4887680b33a140800000000000000
+      internalID: 4729688940951915860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_4
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1563
+        width: 238
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4889353bcd973750800000000000000
+      internalID: 6284665301115701327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_5
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1563
+        width: 237
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d24ad325a966a0800000000000000
+      internalID: -6455447017454644658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_6
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1563
+        width: 236
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278972c7194a53cf0800000000000000
+      internalID: -273131257625864078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_7
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1563
+        width: 233
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b834afecd6edd30800000000000000
+      internalID: 4458121416872790875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_8
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1563
+        width: 232
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6ba384bf2304d0800000000000000
+      internalID: -3169637260389029349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_9
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1563
+        width: 233
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95717dba1c2eda360800000000000000
+      internalID: 7182646302165374809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_10
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1563
+        width: 228
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26b87b3c300302d0800000000000000
+      internalID: -3313804642118748629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_11
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 1563
+        width: 228
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce1b1f90fcea950800000000000000
+      internalID: 6462330156939865183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_12
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1563
+        width: 225
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e7d899fcc2b920800000000000000
+      internalID: 3004689273792751272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_13
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 1563
+        width: 225
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f2b86851b421fa0800000000000000
+      internalID: -5831516011667706073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agis white_14
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 1564
+        width: 227
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244060e474925dc0800000000000000
+      internalID: -3651693118142528474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Agis white_0: 753091592289299859
+      Agis white_1: 7900723349177053977
+      Agis white_10: -3313804642118748629
+      Agis white_11: 6462330156939865183
+      Agis white_12: 3004689273792751272
+      Agis white_13: -5831516011667706073
+      Agis white_14: -3651693118142528474
+      Agis white_2: 6554198431100319979
+      Agis white_3: 4729688940951915860
+      Agis white_4: 6284665301115701327
+      Agis white_5: -6455447017454644658
+      Agis white_6: -273131257625864078
+      Agis white_7: 4458121416872790875
+      Agis white_8: -3169637260389029349
+      Agis white_9: 7182646302165374809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

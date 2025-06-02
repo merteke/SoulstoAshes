@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hayate
+  m_Controller: {fileID: 9100000, guid: fa4a5a51a0dac934e8cda788fd422b64, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c446fa6a70286e843b93b45585667e1d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ad64f4478ce375648a7359304bbb96b6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 638bf39a39e64c6458cea4d1f1e43c57, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98caec0b271cf5f44914a3be67880afe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6f36a31e26e24d94a89d352d9c217ac4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e7fb6cf4118f00844910a7fab908b725, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 34ceba8e8a7b3d74595f625e8f9737d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 65e7d300d9c76754c90524d80b4375ed, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d2e2cfcee23676948896e15861d89d37, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c65201a71eaec744a906f79ec84d34f, type: 2}

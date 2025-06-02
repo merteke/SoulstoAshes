@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8891a694eff6e744972cc24472a06b4, type: 3}
+  m_Name: Hayate
+  m_EditorClassIdentifier: 
+  icon: {fileID: 815424164945274260, guid: 1e43e1dad7f79a94aa8206ad3de3704d, type: 3}
+  controller: {fileID: 22100000, guid: b1b28d0f5060b2449907df228b993350, type: 2}
+  name: Hayate
+  fullName: Hayate
+  characterDescription: "He walks with the weight of countless battles etched into
+    his bones. Age has dulled neither his wrath nor his precision. He enters the
+    fight wielding the Cyclone \u2014 a storm reborn through steel."
+  startingWeapon: {fileID: 11400000, guid: 383fc28479d58944cb3dd42acf0959d2, type: 2}
+  stats:
+    maxHealth: 100
+    baseDamage: 12
+    recovery: 0
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 20
+    revival: 0
